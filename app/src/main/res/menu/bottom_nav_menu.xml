@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/nav_read"
+        android:icon="@drawable/read_icon"
+        android:title="Check"
+        />
+
+
+    <item android:id="@+id/nav_add"
+            android:icon="@drawable/add_icon"
+        android:title="Add"
+        />
+
+
+
+
+
+</menu>
